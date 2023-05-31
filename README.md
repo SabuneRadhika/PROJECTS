@@ -13,6 +13,7 @@
 **Project 2: Machine Learning-Based Customer Churn Prediction for Vodafone Telecommunications**
 - Overview: Developed a robust machine learning model to predict customer churn for a leading telecommunications client, with the aim of reducing churn and boosting revenue.
 - Methodologies and Tools: Employed state-of-the-art machine learning techniques, utilized Python programming for data cleaning, analysis, and visualization.![image](https://github.com/SabuneRadhika/PROJECTS/assets/135149625/578ca7e0-4ffa-4e2c-bf3b-a389118d8646)
+![image](https://github.com/SabuneRadhika/PROJECTS/assets/135149625/af011df4-3757-488e-b26f-ebf20ffce8a3)
 
 - Key Features and Contributions: Constructed a highly accurate machine learning model that effectively predicted customer churn, resulting in a considerable reduction in churn rate and increased revenue for the client. Generated valuable insights through meticulous data analysis, contributing to enhanced customer satisfaction.
 - Results and Impact: Provided crucial insights for informed business decisions, leading to improved customer retention and substantial revenue growth.![image](https://github.com/SabuneRadhika/PROJECTS/assets/135149625/c293b741-dae8-48e4-9e3d-c029753be3bc)
@@ -21,7 +22,8 @@
 
 **Project 3: Optimization of Last-Mile Delivery Operations for FedEx**
 - Overview: Executed an optimization strategy to enhance last-mile delivery operations for FedEx by integrating advanced routing algorithms, real-time tracking solutions, data analysis, and predictive modeling.
-- Methodologies and Tools: Implemented cutting-edge routing algorithms, employed real-time tracking solutions, conducted thorough data analysis, utilized predictive modeling techniques, fostered effective cross-functional collaboration, and prioritized operational efficiency.
+- Methodologies and Tools: Implemented cutting-edge routing algorithms, employed real-time tracking solutions, conducted thorough data analysis, utilized predictive modeling techniques, fostered effective cross-functional collaboration, and prioritized operational efficiency.![image](https://github.com/SabuneRadhika/PROJECTS/assets/135149625/c09a3d11-5f2b-4458-85ab-bddc1fe549ab)
+
 - Key Features and Contributions: Developed and seamlessly integrated advanced routing algorithms, collaborated closely with cross-functional teams, and effectively employed data analysis and predictive modeling techniques to optimize delivery routes, resulting in significant cost savings.
 - Results and Impact: Accomplished a substantial reduction in delivery time, improved on-time deliveries, and achieved cost savings through optimized routes and reduced fuel consumption.
 - Key Skills: Proficient in advanced routing algorithms, experienced in real-time tracking solutions, skilled in data analysis, adept at predictive modeling, capable of cross-functional collaboration, focused on operational efficiency optimization.
